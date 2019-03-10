@@ -73,7 +73,7 @@ class App extends Component {
         </Wrapper>
         <footer className="footer">
           <div className="container">
-            <span className="text-muted">&copy;KennethS - Clickemon - React app.</span>
+            <span className="text-muted">&copy;KennethS - Clickemon - <a href="https://github.com/KennethS13/clickemon" target="_blank" rel= "GitHub Repo">GitHub Repo</a> - React app.</span>
           </div>
         </footer>
       </div>
