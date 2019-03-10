@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  background-image: url("https://wallpaperaccess.com/full/51019.jpg");
+  background-size: 115%;
+}
+
+.App-header {
+  background-color: rgba(62, 63, 95, 0.5);
+  height: 6em;
+  padding: 0.5em;
+  color: white;
+  margin-left: 16.8em;
+  margin-right: 16.8em;
+}
+
+.App-title {
+  font-size: 1.5em;
+  padding-top: .25em;
+}
+
+.App-intro {
+  font-size: large;
+  padding: .5em;
+  color: rgb(253, 253, 253);
+  background: rgba(60, 102, 63, 0.5);
+  margin-left: 15em;
+  margin-right: 15em;
+  height: 2em;
+}
+
+.footer {
+  margin-top: .5em;
+  background-color: rgba(62, 63, 95, 0.75);
+  color: white;
+}
+.score {
+  color: rgb(250, 192, 0);
+}

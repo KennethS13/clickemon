@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Piplup",
+      "image": "https://vignette.wikia.nocookie.net/pokemon/images/b/b4/393Piplup_Pokemon_Ranger_Guardian_Signs.png",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Starly",
+      "image": "https://vignette.wikia.nocookie.net/pokemon/images/a/aa/396Starly_Pokemon_Ranger_Guardian_Signs.png",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Piplup Happy",
+      "image": "https://vignette.wikia.nocookie.net/pokemon/images/e/e8/393Piplup_Pokemon_Ranger_Shadows_of_Almia_2.png",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Articuno",
+      "image": "https://vignette.wikia.nocookie.net/pokemon/images/e/e5/144Articuno_Pokemon_Ranger_Guardian_Signs.png",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Zapdos",
+      "image": "https://vignette.wikia.nocookie.net/pokemon/images/8/8b/145Zapdos_Pokemon_Ranger_Guardian_Signs.png",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Moltres",
+      "image": "https://vignette.wikia.nocookie.net/pokemon/images/4/4e/146Moltres_Pokemon_Ranger_Guardian_Signs.png",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Riolu",
+      "image": "https://vignette.wikia.nocookie.net/pokemon/images/8/89/447Riolu_Pokemon_Ranger_Shadows_of_Almia.png",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Sneasel",
+      "image": "https://vignette.wikia.nocookie.net/pokemon/images/4/42/215Sneasel_Pokemon_Ranger_Guardian_Signs.png",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Munchlax",
+      "image": "https://vignette.wikia.nocookie.net/pokemon/images/a/aa/446Munchlax_Pokemon_Ranger_Guardian_Signs.png",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Gible",
+      "image": "https://vignette.wikia.nocookie.net/pokemon/images/3/31/443Gible_Pokemon_Ranger_Guardian_Signs.png",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Croagunk",
+      "image": "https://vignette.wikia.nocookie.net/pokemon/images/f/f4/453Croagunk_Pokemon_Ranger_Guardian_Signs.png",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Cranidos",
+      "image": "https://vignette.wikia.nocookie.net/pokemon/images/2/29/408Cranidos_Pokemon_Ranger_Guardian_Signs.png",
+      "count": 0
+    }
+  ]
